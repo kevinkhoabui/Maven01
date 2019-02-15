@@ -1,0 +1,7 @@
+<suite name="eTestIt4U">
+ <test name="testngTest">
+ <classes>
+ <class name="tests.NewTest" />
+ </classes>
+ </test>
+</suite>
