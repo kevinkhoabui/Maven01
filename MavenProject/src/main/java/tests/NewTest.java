@@ -12,7 +12,7 @@ public class NewTest {
 	
   @Test
   public void openMyBlog() {
-	driver.get("https://www.eTestIt4U.com/");
+	driver.get("https://www.e.TestIt4U.com/");
   }
   
   @BeforeClass
